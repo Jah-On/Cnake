@@ -1,0 +1,13 @@
+/* 
+
+All code goes in this file
+
+Class comments must follow... 
+Author, date, breif description of class
+...
+
+Method comments must follow...
+Author, date, breif description of method, pre conditions, post conditions, [List of previous editors of method]
+Give lots of detailed and clear comments with in the method.
+...
+*/
